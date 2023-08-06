@@ -1,9 +1,9 @@
 import { useState } from 'react';
+import PropTypes from 'prop-types';
 import { SearchForm, Icon, Input, FormBtn } from './SeachBox.styled';
 
-export const SearchBox = ({onSubmit}) => {
+export const SearchBox = ({ onSubmit }) => {
   const [query, setQuery] = useState('');
-
 
   const handleChange = event => {
     setQuery(event.target.value.toLowerCase());
@@ -33,4 +33,8 @@ export const SearchBox = ({onSubmit}) => {
       </FormBtn>
     </SearchForm>
   );
+};
+
+SearchBox.propTypes = {
+  onSubmit: PropTypes.func,
 };
