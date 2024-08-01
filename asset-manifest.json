@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MOVIES_APP/static/css/main.e9981252.css",
-    "main.js": "/MOVIES_APP/static/js/main.32e3e214.js",
+    "main.js": "/MOVIES_APP/static/js/main.1395aa84.js",
     "static/js/944.c8bc3e25.chunk.js": "/MOVIES_APP/static/js/944.c8bc3e25.chunk.js",
     "static/js/432.8cef4f83.chunk.js": "/MOVIES_APP/static/js/432.8cef4f83.chunk.js",
     "static/js/277.578b4407.chunk.js": "/MOVIES_APP/static/js/277.578b4407.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/225.616ff4fa.chunk.js": "/MOVIES_APP/static/js/225.616ff4fa.chunk.js",
     "index.html": "/MOVIES_APP/index.html",
     "main.e9981252.css.map": "/MOVIES_APP/static/css/main.e9981252.css.map",
-    "main.32e3e214.js.map": "/MOVIES_APP/static/js/main.32e3e214.js.map",
+    "main.1395aa84.js.map": "/MOVIES_APP/static/js/main.1395aa84.js.map",
     "944.c8bc3e25.chunk.js.map": "/MOVIES_APP/static/js/944.c8bc3e25.chunk.js.map",
     "432.8cef4f83.chunk.js.map": "/MOVIES_APP/static/js/432.8cef4f83.chunk.js.map",
     "277.578b4407.chunk.js.map": "/MOVIES_APP/static/js/277.578b4407.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.e9981252.css",
-    "static/js/main.32e3e214.js"
+    "static/js/main.1395aa84.js"
   ]
 }
