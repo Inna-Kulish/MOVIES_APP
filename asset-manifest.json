@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MOVIES_APP/static/css/main.e9981252.css",
-    "main.js": "/MOVIES_APP/static/js/main.1395aa84.js",
-    "static/js/944.c8bc3e25.chunk.js": "/MOVIES_APP/static/js/944.c8bc3e25.chunk.js",
-    "static/js/432.8cef4f83.chunk.js": "/MOVIES_APP/static/js/432.8cef4f83.chunk.js",
-    "static/js/277.578b4407.chunk.js": "/MOVIES_APP/static/js/277.578b4407.chunk.js",
-    "static/js/132.22ad19f1.chunk.js": "/MOVIES_APP/static/js/132.22ad19f1.chunk.js",
-    "static/js/779.82c3615c.chunk.js": "/MOVIES_APP/static/js/779.82c3615c.chunk.js",
-    "static/js/225.616ff4fa.chunk.js": "/MOVIES_APP/static/js/225.616ff4fa.chunk.js",
-    "index.html": "/MOVIES_APP/index.html",
-    "main.e9981252.css.map": "/MOVIES_APP/static/css/main.e9981252.css.map",
-    "main.1395aa84.js.map": "/MOVIES_APP/static/js/main.1395aa84.js.map",
-    "944.c8bc3e25.chunk.js.map": "/MOVIES_APP/static/js/944.c8bc3e25.chunk.js.map",
-    "432.8cef4f83.chunk.js.map": "/MOVIES_APP/static/js/432.8cef4f83.chunk.js.map",
-    "277.578b4407.chunk.js.map": "/MOVIES_APP/static/js/277.578b4407.chunk.js.map",
-    "132.22ad19f1.chunk.js.map": "/MOVIES_APP/static/js/132.22ad19f1.chunk.js.map",
-    "779.82c3615c.chunk.js.map": "/MOVIES_APP/static/js/779.82c3615c.chunk.js.map",
-    "225.616ff4fa.chunk.js.map": "/MOVIES_APP/static/js/225.616ff4fa.chunk.js.map"
+    "main.css": "/movies_app/static/css/main.e9981252.css",
+    "main.js": "/movies_app/static/js/main.7485bb2d.js",
+    "static/js/944.0675ed04.chunk.js": "/movies_app/static/js/944.0675ed04.chunk.js",
+    "static/js/432.d974c79a.chunk.js": "/movies_app/static/js/432.d974c79a.chunk.js",
+    "static/js/277.84b18c55.chunk.js": "/movies_app/static/js/277.84b18c55.chunk.js",
+    "static/js/132.62ea4b55.chunk.js": "/movies_app/static/js/132.62ea4b55.chunk.js",
+    "static/js/779.65c5cbfc.chunk.js": "/movies_app/static/js/779.65c5cbfc.chunk.js",
+    "static/js/225.d3e93fea.chunk.js": "/movies_app/static/js/225.d3e93fea.chunk.js",
+    "index.html": "/movies_app/index.html",
+    "main.e9981252.css.map": "/movies_app/static/css/main.e9981252.css.map",
+    "main.7485bb2d.js.map": "/movies_app/static/js/main.7485bb2d.js.map",
+    "944.0675ed04.chunk.js.map": "/movies_app/static/js/944.0675ed04.chunk.js.map",
+    "432.d974c79a.chunk.js.map": "/movies_app/static/js/432.d974c79a.chunk.js.map",
+    "277.84b18c55.chunk.js.map": "/movies_app/static/js/277.84b18c55.chunk.js.map",
+    "132.62ea4b55.chunk.js.map": "/movies_app/static/js/132.62ea4b55.chunk.js.map",
+    "779.65c5cbfc.chunk.js.map": "/movies_app/static/js/779.65c5cbfc.chunk.js.map",
+    "225.d3e93fea.chunk.js.map": "/movies_app/static/js/225.d3e93fea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9981252.css",
-    "static/js/main.1395aa84.js"
+    "static/js/main.7485bb2d.js"
   ]
 }
